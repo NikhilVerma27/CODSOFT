@@ -51,7 +51,7 @@ I’m currently pursuing web development and building projects to strengthen my 
 
 📫 Contact me:  
 - Email: `nikhilverma27506@gmail.com`  
-- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/nikhil-verma-642603352)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nikhil-verma-642603352/)
 
 ---
 
